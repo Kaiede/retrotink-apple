@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-header {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
